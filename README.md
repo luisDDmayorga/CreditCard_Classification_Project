@@ -47,15 +47,15 @@ Our process included the following steps:
       - Analyzed Categorical Values 
       - Analyzed Correlations using a correlation matrix 
       
-        <p align="left"><img width="600" alt="Screenshot 2021-11-17 at 16 38 24" src="https://user-images.githubusercontent.com/88676121/142231716-7e041f90-2ba6-4fd4-87ce-7efbd236a1e7.png"></p>
+        <p align="center"><img width="600" alt="Screenshot 2021-11-17 at 16 38 24" src="https://user-images.githubusercontent.com/88676121/142231716-7e041f90-2ba6-4fd4-87ce-7efbd236a1e7.png"></p>
 
       - Plotted the data in a scatter matrix
-        <p align="left"><img width="474" alt="Captura de pantalla 2021-11-17 a las 17 30 50" src="https://user-images.githubusercontent.com/90793442/142241466-dddd2344-5e8a-48c9-aff5-c1ca29687402.png"></p>
+        <p align="center"><img width="474" alt="Captura de pantalla 2021-11-17 a las 17 30 50" src="https://user-images.githubusercontent.com/90793442/142241466-dddd2344-5e8a-48c9-aff5-c1ca29687402.png"></p>
 
       - Dropped "Customer_Number" column as it was not relevant 
       - Looked for outliers in a boxplot
 
-        <p align="left"><img width="600", height= "300" alt="Screenshot 2021-11-17 at 16 37 22" src="https://user-images.githubusercontent.com/88676121/142231613-a147b176-7fbc-41c2-a304-b4ff4328d6e0.png"></p>
+        <p align="center"><img width="600", height= "300" alt="Screenshot 2021-11-17 at 16 37 22" src="https://user-images.githubusercontent.com/88676121/142231613-a147b176-7fbc-41c2-a304-b4ff4328d6e0.png"></p>
 
    
   - Preparing data set for modeling:
@@ -65,10 +65,13 @@ Our process included the following steps:
         **Normalizer**
         
         <img width="926" alt="Screenshot 2021-11-17 at 16 29 06" src="https://user-images.githubusercontent.com/88676121/142230418-0bc99534-0582-43d6-a93b-746d8f2d860c.png">
-
-        **Standard Scaler**
+        <p align="center"> <img width="474" alt="Captura de pantalla 2021-11-17 a las 17 35 29" src="https://user-images.githubusercontent.com/90793442/142242208-04a1363f-6846-4a06-be9b-a0356b44b9b8.png"></p>
+       
+       **Standard Scaler**
         
         <img width="923" alt="Screenshot 2021-11-17 at 16 30 22" src="https://user-images.githubusercontent.com/88676121/142230441-266f7fa8-eaa2-4432-9934-8c2b68657583.png">
+        
+        <p align="center"><img width="474" alt="Captura de pantalla 2021-11-17 a las 17 41 57" src="https://user-images.githubusercontent.com/90793442/142243358-87fe4355-9cb2-4ecb-b3fe-2502ce02bea6.png"></p>
 
        - Extracting the dummies from categorical values
                
