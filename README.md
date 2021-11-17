@@ -68,10 +68,15 @@ Our process included the following steps:
         <p align="center"> <img width="474" alt="Captura de pantalla 2021-11-17 a las 17 35 29" src="https://user-images.githubusercontent.com/90793442/142242208-04a1363f-6846-4a06-be9b-a0356b44b9b8.png"></p>
        
        **Standard Scaler**
-        
-        <img width="923" alt="Screenshot 2021-11-17 at 16 30 22" src="https://user-images.githubusercontent.com/88676121/142230441-266f7fa8-eaa2-4432-9934-8c2b68657583.png">
-        
-        <p align="center"><img width="474" alt="Captura de pantalla 2021-11-17 a las 17 41 57" src="https://user-images.githubusercontent.com/90793442/142243358-87fe4355-9cb2-4ecb-b3fe-2502ce02bea6.png"></p>
+       
+       <img width="923" alt="Captura de pantalla 2021-11-17 a las 17 53 23" src="https://user-images.githubusercontent.com/90793442/142245563-feef0d6e-22ee-4803-bc4f-4e2de0eea2d5.png">
+
+       
+       <p align="center"> <img width="474" alt="Captura de pantalla 2021-11-17 a las 17 55 06" src="https://user-images.githubusercontent.com/90793442/142245725-72d59255-d40b-4f0d-a833-6c48a5145b92.png"></p>
+
+       
+       
+       
 
        - Extracting the dummies from categorical values
                
@@ -110,3 +115,11 @@ Database: [MySQL]()
 ## Key Takeaways
 
 The best model we found was Model 5, right after applying the KNN method. This is able to predict if a bank customer will accept a credit card offer with an accuracy of 84%.
+
+**Confusion Matrix:**
+
+<p align="center"> <img width="600" alt="Captura de pantalla 2021-11-17 a las 17 57 47" src="https://user-images.githubusercontent.com/90793442/142246209-00e3fa51-68ab-4658-b063-f2f4bbc11255.png"></p>
+
+**AUC:**
+
+<p align="center"> <img width="317" alt="Captura de pantalla 2021-11-17 a las 17 58 47" src="https://user-images.githubusercontent.com/90793442/142246369-d4a4d8a5-9d84-4b5e-a46a-ebaae6b010f4.png"></p>
