@@ -3,7 +3,7 @@
 
 ## Creating a model able to predict how likely is a bank customer to accept or decline an offer for a credit card
 
-![image](https://user-images.githubusercontent.com/88676121/142217546-f1c18588-ca9c-40e1-8d38-6c6e764e699d.png)
+<p align="center"><img width="500 src="https://user-images.githubusercontent.com/88676121/142217546-f1c18588-ca9c-40e1-8d38-6c6e764e699d.png"></p>
 
 
 ## Table of contents
