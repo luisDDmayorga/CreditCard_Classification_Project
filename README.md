@@ -89,12 +89,12 @@ Our process included the following steps:
     
   - Tried different Machine learning models as follows:
   
-      - Model 1: Logistic regression benchmark
-      - Model 2: SMOTE oversampling method
-      - Model 3: TomekLink undersampling ethod
-      - Model 4: Dropping quarterly balances
-      - Model 5: KNN
-      - Bonus Model 6: Using solely features that seem to have a direct impact on customer response according to an initial visualization in Tableau
+      - _Model 1:_ Logistic regression benchmark
+      - _Model 2:_ SMOTE oversampling method
+      - _Model 3:_ TomekLink undersampling ethod
+      - _Model 4:_ Dropping quarterly balances
+      - _Model 5:_ KNN
+      - _Bonus Model 6:_ Using solely features that seem to have a direct impact on customer response according to an initial visualization in Tableau
 
 **Tools**
 
@@ -107,9 +107,13 @@ Database: [MySQL]()
 <a name="VI"></a>
 ## Visualizations
 
-[Tableau]()
+<p align="center"><img width="1089" alt="Captura de pantalla 2021-11-17 a las 18 07 36" src="https://user-images.githubusercontent.com/90793442/142247876-638606b6-2cf7-437e-a513-b37c56854625.png"></p>
 
-![image](https://user-images.githubusercontent.com/88676121/142222259-f6a5af63-512a-4ca3-9b5f-237946037da7.png)
+
+
+For further explorations please check:
+- [Tableau]()
+- [Presentation]()
 
 <a name="KT"></a>
 ## Key Takeaways
@@ -118,8 +122,8 @@ The best model we found was Model 5, right after applying the KNN method. This i
 
 **Confusion Matrix:**
 
-<p align="center"> <img width="600" alt="Captura de pantalla 2021-11-17 a las 17 57 47" src="https://user-images.githubusercontent.com/90793442/142246209-00e3fa51-68ab-4658-b063-f2f4bbc11255.png"></p>
+<p align="center"> <img width="450" alt="Captura de pantalla 2021-11-17 a las 17 57 47" src="https://user-images.githubusercontent.com/90793442/142246209-00e3fa51-68ab-4658-b063-f2f4bbc11255.png"></p>
 
 **AUC:**
 
-<p align="center"> <img width="317" alt="Captura de pantalla 2021-11-17 a las 17 58 47" src="https://user-images.githubusercontent.com/90793442/142246369-d4a4d8a5-9d84-4b5e-a46a-ebaae6b010f4.png"></p>
+<p align="center"> <img width="450" alt="Captura de pantalla 2021-11-17 a las 17 58 47" src="https://user-images.githubusercontent.com/90793442/142246369-d4a4d8a5-9d84-4b5e-a46a-ebaae6b010f4.png"></p>
