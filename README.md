@@ -118,7 +118,7 @@ For further explorations please check:
 <a name="KT"></a>
 ## Key Takeaways
 
-The best model we found was Model 5, right after applying the KNN method. This is able to predict if a bank customer will accept a credit card offer with an accuracy of 84%.
+The best model we found was Model 5, right after applying the KNN method. It is able to predict if the bank customer will accept a credit card offer with an accuracy of 84%.
 
 **Confusion Matrix:**
 
