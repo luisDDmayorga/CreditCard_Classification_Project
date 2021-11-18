@@ -27,7 +27,7 @@ The [data set](https://github.com/luisDDmayorga/CreditCard_Classification_Projec
 
 <p align="center"><img width="1100" alt="Captura de pantalla 2021-11-18 a las 9 18 00" src="https://user-images.githubusercontent.com/90793442/142377840-204a9dce-02e7-4167-b9ab-90220374aec0.png"></p>
 
-For further details on all features, please refer to the [notebook]()
+For further details on all features, please refer to the [notebook](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Jupyter%20Notebook)
 <a name="PT"></a>
 ## Process & Tools
 
@@ -99,7 +99,7 @@ Our process included the following steps:
 
 **Tools**
 
-Code: [Jupyter Notebook]()
+Code: [Jupyter Notebook](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Jupyter%20Notebook)
 
 Vizualizations: [Tableau](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Tableau) / Seaborn / Matplotlib
 
