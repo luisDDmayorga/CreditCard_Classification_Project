@@ -112,7 +112,7 @@ Database: [MySQL](https://github.com/luisDDmayorga/CreditCard_Classification_Pro
 
 For further explorations please check:
 - [Tableau](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Tableau)
-- [Presentation]()
+- [Presentation](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Presentation)
 
 <a name="KT"></a>
 ## Key Takeaways
