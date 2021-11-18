@@ -125,4 +125,4 @@ The best model we found was Model 5, right after applying the KNN method. It is 
 
 **AUC:**
 
-<p align="center"> <img width="450" alt="Captura de pantalla 2021-11-17 a las 17 58 47" src="https://user-images.githubusercontent.com/90793442/142246369-d4a4d8a5-9d84-4b5e-a46a-ebaae6b010f4.png"></p>
+<p align="center"> <img width="450" alt="Captura de pantalla 2021-11-18 a las 11 34 57" src="https://user-images.githubusercontent.com/90793442/142425819-24a4f57f-3801-4511-9e0a-077a1449d4c3.png"></p>
