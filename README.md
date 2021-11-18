@@ -108,9 +108,7 @@ Database: [MySQL](https://github.com/luisDDmayorga/CreditCard_Classification_Pro
 <a name="VI"></a>
 ## Visualizations
 
-<p align="center"><img width="1089" alt="Captura de pantalla 2021-11-17 a las 18 07 36" src="https://user-images.githubusercontent.com/90793442/142247876-638606b6-2cf7-437e-a513-b37c56854625.png"></p>
-
-
+<p align="center"><img width="1118" alt="Captura de pantalla 2021-11-18 a las 9 46 39" src="https://user-images.githubusercontent.com/90793442/142381973-09960d8d-70a3-4c04-b823-57189edf4ab9.png"></p>
 
 For further explorations please check:
 - [Tableau](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Tableau)
