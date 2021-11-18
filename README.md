@@ -17,7 +17,7 @@
 
 <a name="DT"></a>
 ## Data
-The [data set]() we were provided with consists of:
+The [data set](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/DataSets) we were provided with consists of:
 
 - 18000 samples
 
