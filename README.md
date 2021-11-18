@@ -101,7 +101,7 @@ Our process included the following steps:
 
 Code: [Jupyter Notebook]()
 
-Vizualizations: [Tableau]() / Seaborn / Matplotlib
+Vizualizations: [Tableau](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Tableau) / Seaborn / Matplotlib
 
 Database: [MySQL]()
 
@@ -113,7 +113,7 @@ Database: [MySQL]()
 
 
 For further explorations please check:
-- [Tableau]()
+- [Tableau](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Tableau)
 - [Presentation]()
 
 <a name="KT"></a>
