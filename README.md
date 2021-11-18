@@ -90,7 +90,7 @@ Our process included the following steps:
     
   - Tried different Machine learning models as follows:
   
-      - _Model 1:_ Logistic regression benchmark
+      - _Model 1:_ Baseline model - Normalizer Scaler
       - _Model 2:_ SMOTE oversampling method
       - _Model 3:_ TomekLink undersampling ethod
       - _Model 4:_ Dropping quarterly balances
@@ -103,7 +103,7 @@ Code: [Jupyter Notebook]()
 
 Vizualizations: [Tableau](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/Tableau) / Seaborn / Matplotlib
 
-Database: [MySQL]()
+Database: [MySQL](https://github.com/luisDDmayorga/CreditCard_Classification_Project/tree/main/SQL)
 
 <a name="VI"></a>
 ## Visualizations
