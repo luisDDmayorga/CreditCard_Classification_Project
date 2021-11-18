@@ -25,6 +25,7 @@ The [data set]() we were provided with consists of:
 
 - 17 features: Customer Number,	Offer Accepted,	Reward,	Mailer Type,	Income Level,	Bank Accounts Open,	Overdraft Protection,	Credit Rating,	Credit Cards Held,	Homes Owned,	Household Size,	Own Your Home,	Average Balance,	Q1 Balance,	Q2 Balance,	Q3 Balance,	Q4 Balance.
 
+<p align="center"><img width="1100" alt="Captura de pantalla 2021-11-18 a las 9 18 00" src="https://user-images.githubusercontent.com/90793442/142377840-204a9dce-02e7-4167-b9ab-90220374aec0.png"></p>
 
 For further details on all features, please refer to the [notebook]()
 <a name="PT"></a>
