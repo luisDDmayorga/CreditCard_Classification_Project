@@ -13,7 +13,7 @@
 - [Key Takeaways](#KT)
 <a name="PB"></a>
 ## Project Brief
-**Scenario**: The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card. This will allow the bank to design tailored marketing campaings to specific clusters.
+**Scenario**: The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card. This will allow the bank to design tailored marketing campaigns to specific clusters.
 
 <a name="DT"></a>
 ## Data
